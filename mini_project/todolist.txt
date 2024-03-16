@@ -1,0 +1,25 @@
+"should megabytes continue to use vouchers"
+
+- How many sales were made on each payment type?
+- what days use vouchers the most
+- what types of items were bought with vouchers/cash/credit....
+- What percentage of income made came from
+vouchers each day and overall.
+
+-clean data for each day
+-for each day we need to know:
+	-how many times vouchers were used (total and %)
+	-what items were bought with vouchers
+	-how much was spent using vouchers (total and %)
+
+-plot data
+	-seprate days by spending type (multiple day bar charts)
+	-overall vouchers as a total of spending (pie)
+	-overall vouchers as a total of payment method (pie)
+
+-calculations
+	-how much was spent in total?
+	-how much was spent on each day?
+	-how much was spent with vouchers overall and on each day?
+
+-more information about vouchers
